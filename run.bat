@@ -1,0 +1,1 @@
+cscript script.vbs "C:\Users\bailey.lin\Documents\Python Tools\Python-Scheduler\Scheduler.xlsm" 04/06/2020
